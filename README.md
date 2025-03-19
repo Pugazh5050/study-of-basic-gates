@@ -67,9 +67,7 @@ Register number: 212224100047
 
 
 *PROGRAM*
-
-Program for logic gates and verify its truth table in quartus using Verilog programming
-
+```
 module sample(a,b,yand,yor,ynot,ynand,yxor,ynor,yxnor);
 
 input a,b;
@@ -91,7 +89,7 @@ nor(ynor,a,b);
 xnor(yxnor,a,b);
 
 endmodule
-
+```
 
  
  *Logic symbol & Truthtable*
