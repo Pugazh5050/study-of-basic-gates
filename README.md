@@ -1,5 +1,6 @@
-### study-of-basic-gates
-
+### Name: Pugazhalenthi V
+### Reg No: 212224100047
+# Exp 1: Study of basic gates
 **AIM:** 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
